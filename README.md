@@ -1,7 +1,7 @@
 # Chicago95-greeter
 heavily modified version of [grassmunk's Chicago95 lightdm greeter](https://github.com/grassmunk/Chicago95/tree/master/Lightdm/Chicago95) (which in turn is based on kalmanolah's [paddy greeter](https://github.com/kalmanolah/paddy-greeter/) lol) made explicitly for use with [Chicago95](https://github.com/grassmunk/Chicago95/). very limited functionality-wise it just looks cool
 
-### using
+using
 -------------
 just reading off grassmunk's readme [here](https://github.com/grassmunk/Chicago95/tree/master/Lightdm/Chicago95)
 
