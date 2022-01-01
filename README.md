@@ -2,6 +2,7 @@
 heavily modified version of [grassmunk's Chicago95 lightdm greeter](https://github.com/grassmunk/Chicago95/tree/master/Lightdm/Chicago95) (which in turn is based on kalmanolah's [paddy greeter](https://github.com/kalmanolah/paddy-greeter/) lol) made explicitly for use with [Chicago95](https://github.com/grassmunk/Chicago95/). very limited functionality-wise it just looks cool
 
 ### using
+* * *
 just reading off grassmunk's readme [here](https://github.com/grassmunk/Chicago95/tree/master/Lightdm/Chicago95)
 
 install lightdm and lightdm-webkit-greeter with whatever package manager you have. on arch this looks something like `pacman -S lightdm lightdm-webkit-greeter` and on ubuntu it's `apt-get install lightdm lightdm-webkit-greeter`
