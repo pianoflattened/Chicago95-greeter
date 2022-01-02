@@ -31,5 +31,8 @@ then you have to configure lightdm-webkit-greeter to use Chicago95 by editing `/
 [greeter]
 webkit-theme=Chicago95
 ```
-
-then just copy the contents of this repo into `/usr/share/lightdm-webkit/themes`
+then:
+```
+git clone https://github.com/pianoflattened/Chicago95-greeter Chicago95
+sudo cp -r Chicago95 /usr/share/lightdm-webkit/themes/
+```
